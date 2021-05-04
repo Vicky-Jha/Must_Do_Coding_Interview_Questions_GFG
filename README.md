@@ -27,7 +27,7 @@ My C++ Solutions
 12 | [Minimum Platforms](https://practice.geeksforgeeks.org/problems/minimum-platforms-1587115620/1) | [C++](./Array/Minimum_Platforms.cpp) | _O(nlogn)_ | _O(n)_
 13 | [Reverse array in groups](https://practice.geeksforgeeks.org/problems/reverse-array-in-groups0255/1) | [C++](./Array/Reverse_array_in_groups.cpp) | _O(n)_ | _O(n)_ 
 14 | [K’th smallest element](https://practice.geeksforgeeks.org/problems/kth-smallest-element5635/1) | [C++](./Array/Kth_smallest_element.cpp) | _O(n)_ | _O(1)_
-15 | [Trapping Rain Water](https://practice.geeksforgeeks.org/problems/trapping-rain-water-1587115621/1) | [C++]9./Array/Trapping_Rain_Water.cpp) | _O(n)_ | _O(n)_
+15 | [Trapping Rain Water](https://practice.geeksforgeeks.org/problems/trapping-rain-water-1587115621/1) | [C++](./Array/Trapping_Rain_Water.cpp) | _O(n)_ | _O(n)_
 16 | [Pythagorean Triplet](https://practice.geeksforgeeks.org/problems/pythagorean-triplet3018/1) | [C++](./Array/Pythagorean_Triplet.cpp) | _O(max(Arr[i])2)_ |  _O(max(Arr[i])_)
 17 | [Chocolate Distribution Problem](https://practice.geeksforgeeks.org/problems/chocolate-distribution-problem3825/1) | [C++](./Array/Chocolate_Distribution_Problem.cpp) |  _O(N*Log(N))_ | _O(1)_
 18 | [Stock buy and sell](https://practice.geeksforgeeks.org/problems/stock-buy-and-sell-1587115621/1) | [C++](./Array/Stock_buy_and_sell.cpp) | _O(N)_ | _O(N)_
