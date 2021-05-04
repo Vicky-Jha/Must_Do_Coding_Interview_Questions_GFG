@@ -1,4 +1,4 @@
-# [Geeks for Geeks Must Do Coding Interview Question for FAANG Companies](https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/)
+# [Must Do Coding Interview Question for FAANG Companies Geeks for Geeks](https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/)
 
 ![Language](https://img.shields.io/badge/language-C++-orange.svg)&nbsp;
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE.md)&nbsp;
