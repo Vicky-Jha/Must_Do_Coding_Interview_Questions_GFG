@@ -12,7 +12,7 @@ using namespace std;
 
 // arr[]: Input Array
 // N : Size of the Array arr[]
-
+//Solution 1 Accepted
 long long int inversionCount(long long arr[], long long N)
 {
     long long int ans = 0;
@@ -30,7 +30,17 @@ long long int inversionCount(long long arr[], long long N)
     }
     return ans;
 }
-
+//Solution 2 TLE
+long long int inversionCount(long long arr[], long long N)
+{
+   long long int count = 0;
+   for(int i = 0; i < N; ++i){
+       for(int j = 0; j < i; ++j){
+           if(arr[i] < arr[j]) count++;
+       }
+   }
+   return count;
+}
 
 
 // { Driver Code Starts.
