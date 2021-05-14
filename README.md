@@ -8,6 +8,7 @@ My C++ Solutions
 ## Topics
 
 * [Arrays](https://github.com/Vicky-Jha/Must_Do_Coding_Interview_Questions_GFG#ARRAYS)
+* [String](https://github.com/Vicky-Jha/Must_Do_Coding_Interview_Questions_GFG#STRING)
 
 
 ## ARRAYS
@@ -36,5 +37,12 @@ My C++ Solutions
 21 | [Last Index of 1](https://practice.geeksforgeeks.org/problems/last-index-of-15847/1) | [C++](./Array/Last_index_of_One.cpp) | _O(N)_ | _O(1)_
 22 | [Spirally traversing a matrix](https://practice.geeksforgeeks.org/problems/spirally-traversing-a-matrix-1587115621/1) | [C++](./Array/Spirally_traversing_a_matrix.cpp) | _O(r*c)_ | _O(r*c)_
 23 | [Largest Number formed from an Array](https://practice.geeksforgeeks.org/problems/largest-number-formed-from-an-array1117/1) | [C++](./Array/Largest_Number_formed_from_an_Array.cpp) | _O(nlogn)_ | _O(1)_
+
+## STRING
+\# | Title | Solution | Time | Space
+---|---|---|---|---
+1 | [Reverse words in a given string](https://practice.geeksforgeeks.org/problems/reverse-words-in-a-given-string5459/1) | [C++](./String/Reverse_words_in_a_given_string.cpp) | _O(|S|)_ | _O(|S|)_
+2 | [Permutations of a given string](https://practice.geeksforgeeks.org/problems/permutations-of-a-given-string2041/1) | [C++](./String/Permutations_of_a_given_string.cpp) | _O(n! * n)_ | _O(n)_
+3 | [Longest_Palindrome_in_a_String](https://practice.geeksforgeeks.org/problems/longest-palindrome-in-a-string3411/1) | [C++](./String/longest-palindrome-in-a-string.cpp) | _O(|S|)_ | _O(1)_
 
 
