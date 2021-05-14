@@ -41,8 +41,8 @@ My C++ Solutions
 ## STRING
 \# | Title | Solution | Time | Space
 ---|---|---|---|---
-1 | [Reverse words in a given string](https://practice.geeksforgeeks.org/problems/reverse-words-in-a-given-string5459/1) | [C++](./String/Reverse_words_in_a_given_string.cpp) | _O(|S|)_ | _O(|S|)_
+1 | [Reverse words in a given string](https://practice.geeksforgeeks.org/problems/reverse-words-in-a-given-string5459/1) | [C++](./String/Reverse_words_in_a_given_string.cpp) | _O(mod(S))_ | _O(mod(S))_
 2 | [Permutations of a given string](https://practice.geeksforgeeks.org/problems/permutations-of-a-given-string2041/1) | [C++](./String/Permutations_of_a_given_string.cpp) | _O(n! * n)_ | _O(n)_
-3 | [Longest_Palindrome_in_a_String](https://practice.geeksforgeeks.org/problems/longest-palindrome-in-a-string3411/1) | [C++](./String/longest-palindrome-in-a-string.cpp) | _O(|S|)_ | _O(1)_
+3 | [Longest_Palindrome_in_a_String](https://practice.geeksforgeeks.org/problems/longest-palindrome-in-a-string3411/1) | [C++](./String/longest-palindrome-in-a-string.cpp) | _O(mod(S))_ | _O(1)_
 
 
